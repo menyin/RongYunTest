@@ -32,3 +32,6 @@ js/CSIM_All.js
 ##演示
  同时打开user1.html、user2.html，即可进行通信演示
 
+##修改记录
+ 在项目相关js中有添加_time5msg变量，用于测试5分钟未回复则发送短信功能
+
